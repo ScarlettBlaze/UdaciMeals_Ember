@@ -1,0 +1,23 @@
+[
+    {
+        "id":"chicken-pomegranate-salad",
+        "name": "Chicken Pomegranate Salad",
+        "image": "chicken-pomegranate-salad.jpg",
+        "source": "/img/chicken-pomegranate-salad.jpg",
+        "photographer": "Shutterstock.com"
+    },
+    {
+        "id":"strawberry-pudding",
+        "name": "Strawberry Pudding",
+        "image": "strawberry-pudding.jpg",
+        "source": "/img/strawberry-pudding.jpg",
+        "photographer": "Shutterstock.com"
+    },
+    {
+        "id":"ham-goat-cheese-croissant",
+        "name": "Ham and Goat Cheese Croissant",
+        "image": "ham-goat-cheese-croissant.jpg",
+        "source": "/img/ham-goat-cheese-croissant.jpg",
+        "photographer": "Shutterstock.com"
+    }
+]

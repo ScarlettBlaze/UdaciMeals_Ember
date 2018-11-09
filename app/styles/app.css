@@ -1,0 +1,29 @@
+.items-container {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.menu-item {
+    text-align: center;
+    padding: 50px;
+}
+
+img {
+    height: 300px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.day-container {
+    border-style: solid;
+    display: inline-block;
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.order-tracker {
+    border-style: dotted;
+    text-align: center;
+}
